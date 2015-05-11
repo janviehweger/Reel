@@ -1,0 +1,26 @@
+{
+  "name": "Reel",
+  "version": "1.3.0",
+  "homepage": "http://reel360.org/reel",
+  "authors": [
+    "Petr Vostřel <petr@vostrel.cz>"
+  ],
+  "description": "The premier 360° solution for jQuery",
+  "main": "jquery.reel.js",
+  "keywords": [
+    "reel",
+    "360",
+    "jQuery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~1.6.2"
+  }
+}
