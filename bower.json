@@ -6,7 +6,7 @@
     "Petr Vostřel <petr@vostrel.cz>"
   ],
   "description": "The premier 360° solution for jQuery",
-  "main": "jquery.reel.js",
+  "main": "./jquery.reel.js",
   "keywords": [
     "reel",
     "360",
